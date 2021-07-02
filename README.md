@@ -10,3 +10,5 @@ foo@bar:~$ npm start
 ```
 
 You have to create a .env with the token received from discord
+
+The first part of this tutorial shows how we can get our token, have a look at it https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
